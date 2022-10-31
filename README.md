@@ -5,8 +5,7 @@ Fullstack Developer
 -------------------
 
 * 🌍  I'm based in Madrid, Spain
-* ✉️  You can contact me at [sofiamguardia@gmail.com](mailto:sofiamguardia@gmail.com)
-* 🧠  I'm learning React
+* ✉️  You can contact me at [sofiamguardia@gmail.com](mailto:sofiamguardia@gmail.com
 
 ### Skills
 
